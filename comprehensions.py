@@ -1,0 +1,1 @@
+#It is a short way to create a new collection like (list , dict , set),out of an existing one in a single line of code 
